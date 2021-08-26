@@ -7,3 +7,7 @@ Summarizes the TedTalk i.e. for a given particular link
 3. Next, run the "summarizing.ipynb" file to summarize this documented text.
 
 Your summarized TedTalk is ready!!!!
+
+<br />
+Future Scope: <br />
+- Using the abstractive approach to come up with the summary.
